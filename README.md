@@ -19,7 +19,7 @@ This project was really challenging.. just disappointed with the localstorage.
 
 
 - Solution URL : [code] (https://github.com/EtnoPolino/TodoApp.git)
-- Live Site URL : [demo] (  )
+- Live Site URL : [demo] (https://etnopolino.github.io/TodoApp/)
 
 
 ### Built with
