@@ -55,7 +55,7 @@ class UIDesign {
     showNewProjectView(){
         const h1 = createElement('h1', {class:'title'}, 'create a new project');
         const header= createElement('div', {class:'header'}, h1);
-        this.inputProject = createElement('input', {type:'text', class:'inputProject', id:'inputProject', placeholder:'project name', name:'project-name'}, '');
+        this.inputProject = createElement('input', {type:'text', class:'inputProject', id:'inputProject', placeholder:'project name', name:'project-name', required:'required'}, '');
     
         const logoAdd = createElement('i', {class:'fa-solid fa-plus'}, '');
         const span = createElement('span', {}, 'Add')

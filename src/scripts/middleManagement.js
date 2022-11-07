@@ -6,7 +6,7 @@ class MiddleManagement{
 
 
 /* ---------------------------------------------- Local Storage ------------------------------------------------------ */
-
+/*
     storeIntoLocalStorage = () => {
         const datas = [];
         this.projects.forEach(project => {
@@ -19,7 +19,7 @@ class MiddleManagement{
 
         localStorage.setItem('projects', JSON.stringify(datas));
     }
-
+*/
 /* ----------------------------------------------    project       --------------------------------------------------- */
 
     addProjectName(project){
